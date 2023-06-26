@@ -1,0 +1,38 @@
+﻿  gui.cpp
+D:\game\smartgame\smartgame\gui.cpp(26,25): warning C4305: инициализация: усечение из "double" в "float"
+D:\game\smartgame\smartgame\gui.cpp(26,32): warning C4305: инициализация: усечение из "double" в "float"
+D:\game\smartgame\smartgame\gui.cpp(26,44): warning C4305: инициализация: усечение из "double" в "float"
+D:\game\smartgame\smartgame\gui.cpp(27,22): warning C4305: инициализация: усечение из "double" в "float"
+D:\game\smartgame\smartgame\gui.cpp(27,29): warning C4305: инициализация: усечение из "double" в "float"
+D:\game\smartgame\smartgame\gui.cpp(28,22): warning C4305: инициализация: усечение из "double" в "float"
+D:\game\smartgame\smartgame\gui.cpp(28,29): warning C4305: инициализация: усечение из "double" в "float"
+D:\game\smartgame\smartgame\gui.cpp(29,22): warning C4305: инициализация: усечение из "double" в "float"
+D:\game\smartgame\smartgame\gui.cpp(29,29): warning C4305: инициализация: усечение из "double" в "float"
+D:\game\smartgame\smartgame\gui.cpp(30,22): warning C4305: инициализация: усечение из "double" в "float"
+D:\game\smartgame\smartgame\gui.cpp(31,22): warning C4305: инициализация: усечение из "double" в "float"
+D:\game\smartgame\smartgame\gui.cpp(31,29): warning C4305: инициализация: усечение из "double" в "float"
+D:\game\smartgame\smartgame\gui.cpp(32,22): warning C4305: инициализация: усечение из "double" в "float"
+D:\game\smartgame\smartgame\gui.cpp(32,29): warning C4305: инициализация: усечение из "double" в "float"
+D:\game\smartgame\smartgame\gui.cpp(33,22): warning C4305: инициализация: усечение из "double" в "float"
+D:\game\smartgame\smartgame\gui.cpp(34,22): warning C4305: инициализация: усечение из "double" в "float"
+D:\game\smartgame\smartgame\gui.cpp(35,27): warning C4305: инициализация: усечение из "double" в "float"
+D:\game\smartgame\smartgame\gui.cpp(36,28): warning C4305: инициализация: усечение из "double" в "float"
+D:\game\smartgame\smartgame\gui.cpp(37,22): warning C4305: инициализация: усечение из "double" в "float"
+D:\game\smartgame\smartgame\gui.cpp(38,22): warning C4305: инициализация: усечение из "double" в "float"
+D:\game\smartgame\smartgame\gui.cpp(39,22): warning C4305: инициализация: усечение из "double" в "float"
+D:\game\smartgame\smartgame\gui.cpp(40,28): warning C4305: инициализация: усечение из "double" в "float"
+D:\game\smartgame\smartgame\gui.cpp(41,28): warning C4305: инициализация: усечение из "double" в "float"
+D:\game\smartgame\smartgame\gui.cpp(53,45): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\game\smartgame\smartgame\gui.cpp(53,39): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\game\smartgame\smartgame\gui.cpp(58,131): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\game\smartgame\smartgame\gui.cpp(58,125): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\game\smartgame\smartgame\gui.cpp(94,50): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+D:\game\smartgame\smartgame\gui.cpp(95,22): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\game\smartgame\smartgame\gui.cpp(96,22): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\game\smartgame\smartgame\gui.cpp(99,50): warning C4244: аргумент: преобразование "float" в "const size_t", возможна потеря данных
+D:\game\smartgame\smartgame\gui.cpp(99,37): warning C4244: аргумент: преобразование "float" в "const size_t", возможна потеря данных
+D:\game\smartgame\smartgame\gui.cpp(100,50): warning C4244: аргумент: преобразование "float" в "const size_t", возможна потеря данных
+D:\game\smartgame\smartgame\gui.cpp(100,46): warning C4244: аргумент: преобразование "float" в "const size_t", возможна потеря данных
+D:\game\smartgame\smartgame\gui.cpp(103,55): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\game\smartgame\smartgame\gui.cpp(111,103): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  smartgame.vcxproj -> D:\game\smartgame\x64\Debug\smartgame.exe
